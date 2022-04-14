@@ -3,8 +3,8 @@ Programing Assignment 3
 
 
 # To Compile
-javac presents.java
-java presents.java
+`javac presents.java`
+`java presents.java`
 
 # Why the Minotaur The Minotaur has More Presents than Thank Yous
 The Servants being overworked and unable to communicate could have caused an error where both of them were adding presents and writing thank-you
